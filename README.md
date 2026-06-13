@@ -9,7 +9,7 @@
 - **Curriculum:** https://onlinecde.annauniv.edu/mod/page/view.php?id=1048
 - **Syllabus:** https://onlinecde.annauniv.edu/mod/page/view.php?id=957
 
-This is a concise snapshot of the Anna University MBA (Business Analytics) curriculum (Regulations 2021).
+> This is a concise snapshot of the Anna University MBA (Business Analytics) curriculum (Regulations 2021).
 ---
 
 ## 🗂️ Structure (linked folders & subjects)
@@ -65,4 +65,4 @@ This is a concise snapshot of the Anna University MBA (Business Analytics) curri
 
 ---
 
-Made with ❤️ — happy studying! 🎓
+Made with ❤️ - happy studying! 🎓
