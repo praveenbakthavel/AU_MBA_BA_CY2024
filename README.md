@@ -9,50 +9,8 @@
 - **Curriculum:** https://onlinecde.annauniv.edu/mod/page/view.php?id=1048
 - **Syllabus:** https://onlinecde.annauniv.edu/mod/page/view.php?id=957
 
+This is a concise snapshot of the Anna University MBA (Business Analytics) curriculum (Regulations 2021).
 ---
-
-## 📘 Official Curriculum (summary)
-
-This is a concise snapshot of the Anna University MBA (Business Analytics) curriculum (Regulations 2021). For full details see the **Curriculum** and **Syllabus** links above.
-
-- Semester I
-	- OBA 1101 — Management Concepts and Organization Behavior (3)
-	- OBA 1102 — Managerial Economics (3)
-	- OBA 1103 — Human Resource Management (3)
-	- OBA 1104 — Marketing Management (3)
-	- OBA 1105 — Financial Management (3)
-	- OBA 1106 — Operations Management (3)
-	- OBA 1107 — Statistical Methods for Decision Making (3)
-	- OBA 1108 — R Programming (3)
-
-- Semester II
-	- OBA 1201 — Data Mining and Business Intelligence (3)
-	- OBA 1202 — Multivariate Data Analysis (3)
-	- OBA 1203 — Legal Aspects for Business (3)
-	- OBA 1204 — Python Programming (3)
-	- OBA 1205 — Time Series Analysis (3)
-	- OBA 1206 — Big Data Analytics (3)
-	- OBA 1207 — Optimization Techniques (3)
-	- OBA 1208 — Stochastic Modeling (3)
-
-- Semester III
-	- OBA 1301 — Enterprise Information System (3)
-	- OBA 1302 — Block Chain Technology (3)
-	- OBA 1303 — Business Analytics (3)
-	- OBA 1304 — Cloud Computing (3)
-	- OBA 1305 — Human Resource Analytics (3)
-	- OBA 1306 — Marketing and Social Media Web Analytics (3)
-	- OBA 1307 — Financial Analytics (3)
-	- OBA 1308 — Operations and Supply Chain Analytics (3)
-
-- Semester IV
-	- OBA 1401 — Artificial Intelligence (3)
-	- OBA 1402 — Machine Learning (3)
-	- OBA 1403 — Project Work (12)
-
-- Total Credits: 90
-
-
 
 ## 🗂️ Structure (linked folders & subjects)
 
