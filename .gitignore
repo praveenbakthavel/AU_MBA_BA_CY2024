@@ -1,1 +1,61 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.bak
+*.temp
+*.orig
+
+# Office temporary files
+~$*
