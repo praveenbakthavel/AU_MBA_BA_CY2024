@@ -51,7 +51,7 @@ SEM_xx/OBA_xxxx_CODE--Subject Name/OBA_xxxx_CODE_OCR_C.pdf
 | **📘 SEM 01** | Management foundations and analytics basics | 8 | [Browse](<SEM_01>) |
 | **📗 SEM 02** | Programming, data mining, modeling, and optimization | 8 | [Browse](<SEM_02>) |
 | **📙 SEM 03** | Enterprise systems and functional analytics | 8 | [Browse](<SEM_03>) |
-| **📕 SEM 04** | AI and machine learning | 2 | [Browse](<SEM_04>) |
+| **📕 SEM 04** | AI and machine learning | 3 | [Browse](<SEM_04>) |
 
 ---
 
@@ -156,6 +156,7 @@ SEM_xx/OBA_xxxx_CODE--Subject Name/OBA_xxxx_CODE_OCR_C.pdf
   <tbody>
     <tr><td>OBA 1401</td><td>Artificial Intelligence</td><td><a href="SEM_04/OBA_1401_AI--Artificial%20Intelligence/OBA_1401_AI_OCR_C.pdf">Open</a></td></tr>
     <tr><td>OBA 1402</td><td>Machine Learning</td><td><a href="SEM_04/OBA_1402_ML--Machine%20Learning/OBA_1402_ML_OCR_C.pdf">Open</a></td></tr>
+    <tr><td>OBA 1403</td><td>Project Work</td><td>Pending</td></tr>
   </tbody>
 </table>
 
