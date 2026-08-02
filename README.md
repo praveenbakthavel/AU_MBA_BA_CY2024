@@ -44,6 +44,16 @@ SEM_xx/OBA_xxxx_CODE--Subject Name/OBA_xxxx_CODE_OCR_C.pdf
 
 ---
 
+## Scope
+
+This repository is an academic resource library for Anna University MBA Business Analytics course material. It is not an engineering implementation repository, and it does not contain private career planning or Personal Command Center content.
+
+## Role in Engineering Portfolio
+
+This repository supports the education and analytics knowledge side of the broader workspace by keeping MBA Business Analytics reference material organized and searchable.
+
+---
+
 ## 🗺️ Semester Map
 
 | Semester | Focus Area | Subjects | Open |
